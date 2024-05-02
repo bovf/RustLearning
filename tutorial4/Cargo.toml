@@ -1,6 +1,5 @@
-workspace = { members = ["tutorial4"] }
 [package]
-name = "tutorial2"
+name = "tutorial4"
 version = "0.1.0"
 edition = "2021"
 
