@@ -3,9 +3,5 @@
 version = 3
 
 [[package]]
-name = "tutorial1"
-version = "0.1.0"
-
-[[package]]
-name = "tutorial14"
+name = "tutorial15"
 version = "0.1.0"

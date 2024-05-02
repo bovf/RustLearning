@@ -1,0 +1,8 @@
+fn main() {
+    println!("Hello, world!");
+    add_numbers(20, 30)
+}
+
+fn add_numbers(x: i32, y: i32) {
+    println!("The sum is: {}", x + y);
+}
